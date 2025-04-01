@@ -1,0 +1,458 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    
+}
+
+body{
+    overflow-x: hidden;
+}
+
+
+.topborder{
+
+background-color: white;
+height: 50px;
+width: 100%;
+border-bottom: 1px solid grey;
+position: relative;
+
+
+}
+
+.icon1{
+    color: red;
+    font-size: 15px;
+   position: absolute;
+   left: 550px;
+   top: 13px;
+}
+
+.icontext{
+
+    color: black;
+    font-weight: 500;
+    letter-spacing: 0.5px;
+
+
+}
+
+.button1{
+
+    background-color: black;
+    color: white;
+    width: 90px;
+    height: 25px;
+    border-radius: 30px;
+    cursor: pointer;
+    font-weight: 500;
+
+
+}
+
+.main{
+    position: relative;
+}
+
+.pic1{
+
+margin-top: 50px;
+margin-left: 150px;
+
+
+}
+
+.menu{
+font-weight: 600;
+position: absolute;
+top: 55px;
+left: 280px;
+cursor: pointer;
+
+
+}
+
+.deal{
+    font-weight: 600;
+    position: absolute;
+    top: 55px;
+    left: 360px;
+    cursor: pointer;
+    
+    
+    }
+
+    .main1{
+        position: relative;
+    }
+
+
+.blackborder{
+
+background: black;
+height:70px;
+width: 100%;
+margin-top: 30px;
+
+
+    }
+
+    .bordertext{
+
+        color: white;
+        position: absolute;
+        top: 22px;
+        font-size: 20px;
+        font-weight: 800;
+        left: 400px;
+        
+    }
+
+
+    .button2{
+
+background-color: red;
+font-size: 15px;
+width: 150px;
+height: 40px;
+position: absolute;
+top: 15px;
+left: 950px;
+border-radius: 40%;
+padding:7px;
+cursor: pointer;
+}
+
+.main3{
+
+position: relative;
+height: 200px;
+}
+
+.text1{
+
+font-size: 35px;
+font-weight: 800;
+position: absolute;
+top: 70px;
+left: 150px;
+
+
+
+
+}
+
+.border4{
+
+    height: 2px;
+    width: 59%;
+    background-color: grey;
+position: absolute;
+top: 95px;
+left: 440px;
+
+
+}
+
+
+.main4{
+
+    height: 600px;
+    position: relative;
+
+
+}
+
+
+.bottompic1{
+
+height: 200px;
+position: absolute;
+left: 150px;
+
+}
+
+.bottompic2{
+    height: 200px;
+    position: absolute;
+    left: 450px;
+    
+}
+
+.bottompic3{
+    height: 200px;
+    position: absolute;
+    left: 750px;
+
+}
+
+
+.bottompic4{
+
+    height: 200px;
+    position: absolute;
+    left: 1050px;
+}
+
+
+.text2{
+
+background-color: rgb(234, 230, 230);
+height: 50px;
+position: absolute;
+top: 200px;
+left: 150px;
+width: 285px;
+line-height: 50px;
+text-align: center;
+font-weight: 800;
+cursor: pointer;
+
+}
+
+.text3{
+
+    background-color: rgb(234, 230, 230);
+    height: 50px;
+    position: absolute;
+    top: 200px;
+    left: 450px;
+    width: 285px;
+    line-height: 50px;
+    text-align: center;
+    font-weight: 800;
+    cursor: pointer;
+
+
+}
+
+.text4{
+
+    background-color: rgb(234, 230, 230);
+    height: 50px;
+    position: absolute;
+    top: 200px;
+    left: 750px;
+    width: 285px;
+    line-height: 50px;
+    text-align: center;
+    font-weight: 800;
+    cursor: pointer;
+
+
+
+}
+
+.text5{
+
+    background-color: rgb(234, 230, 230);
+    height: 50px;
+    position: absolute;
+    top: 200px;
+    left: 1050px;
+    width: 285px;
+    line-height: 50px;
+    text-align: center;
+    font-weight: 800;
+    cursor: pointer;
+
+}
+
+.bottompic5{
+
+    height: 200px;
+    position: absolute;
+    left: 150px;
+    top: 300px;
+
+}
+
+.bottompic6{
+
+    height: 200px;
+position: absolute;
+left: 450px;
+top: 300px;
+
+}
+
+.bottompic7{
+    height: 200px;
+position: absolute;
+left: 750px;
+top: 300px;
+
+}
+
+.bottompic8{
+    height: 150px;
+position: absolute;
+left: 1060px;
+top: 300px;
+
+}
+
+.text6{
+   
+    background-color: rgb(234, 230, 230);
+    height: 50px;
+    position: absolute;
+    top: 500px;
+    left: 150px;
+    width: 285px;
+    line-height: 50px;
+    text-align: center;
+    font-weight: 800;
+    cursor: pointer;
+
+    
+}
+
+.text7{
+    background-color: rgb(234, 230, 230);
+    height: 50px;
+    position: absolute;
+    top: 500px;
+    left: 450px;
+    width: 285px;
+    line-height: 50px;
+    text-align: center;
+    font-weight: 800;
+    cursor: pointer;
+
+}
+
+.text8{
+    background-color: rgb(234, 230, 230);
+    height: 50px;
+    position: absolute;
+    top: 500px;
+    left: 750px;
+    width: 285px;
+    line-height: 50px;
+    text-align: center;
+    font-weight: 800;
+    cursor: pointer;
+
+}
+
+
+.text9{
+    
+    background-color: rgb(234, 230, 230);
+    height: 50px;
+    position: absolute;
+    top: 500px;
+    left: 1050px;
+    width: 285px;
+    line-height: 50px;
+    text-align: center;
+    font-weight: 800;
+    cursor: pointer;
+
+
+}
+
+.main5{
+
+
+background-color: #202124;
+height: 450px;
+position: relative;
+
+
+}
+
+
+.lastlogo{
+
+position: absolute;
+top: 100px;
+left: 100px;
+
+
+}
+
+.text10{
+
+color: white;
+font-weight: 500;
+position: absolute;
+top: 100px;
+
+left: 250px;
+
+}
+
+.text11{
+
+    color: white;
+    font-weight: 500;
+    position: absolute;
+    top: 100px;
+    
+    left: 450px;
+
+}
+
+.text12{
+    color: white;
+    font-weight: 500;
+    position: absolute;
+    top: 100px;
+    
+    left: 650px;
+
+    }
+
+    .text13{
+        
+        color: white;
+        font-weight: 500;
+        position: absolute;
+        top: 100px;
+        
+        left: 850px;
+    
+        
+    }
+
+    .lasticon{
+        color: red;
+        position: absolute;
+        top: 100px;
+        left: 1000px;
+    }
+
+    .text14{
+        color: white;
+        cursor: pointer;
+    }
+
+    .googleplay{
+
+        position: absolute;
+        top: 100px;
+        left: 1150px;
+
+    }
+
+    .applelogo{
+
+        position: absolute;
+        top: 100px;
+        left: 1300px;
+
+    }
+
+    .lasttag{
+
+color: rgb(201, 199, 199);
+position: absolute;
+top: 400px;
+left: 700px;
+letter-spacing: 1px;
+font-style: italic;
+
+
+    }
